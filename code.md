@@ -1,5 +1,5 @@
 Was brauchen wir?
-- 1 Listview
+- 1 Listview mit 3 "Columns" (unter "View" auf "details" stellen.
 - 1 Textbox (dort steht der Pfad drin; Muss aber auch nicht)
 
 Was macht der Code?
