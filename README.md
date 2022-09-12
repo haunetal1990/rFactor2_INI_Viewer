@@ -1,2 +1,2 @@
 # rFactor2 INI Viewer
-Willkommen beim fünften Code für "INI Viewer for rFactor2".
+With that Code you can view the INI files from rFactor. The code is for ***Visual Studio 2017***.
